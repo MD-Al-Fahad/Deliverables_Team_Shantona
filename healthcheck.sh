@@ -1,0 +1,1 @@
+curl -f http://host.docker.internal:5000/health || exit 1
